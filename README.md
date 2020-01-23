@@ -2,6 +2,10 @@
 
 Guia prático para iniciantes.
 
+## Aula 
+
+https://www.youtube.com/watch?v=2alg7MQ6_sI&t=53s
+
 ### Instalação 
 
 https://git-scm.com/download
